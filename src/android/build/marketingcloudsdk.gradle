@@ -18,5 +18,6 @@ repositories {
 }
 
 dependencies {
-    implementation("com.salesforce.marketingcloud:marketingcloudsdk:7.3.+")
+    implementation("com.salesforce.marketingcloud:marketingcloudsdk:7.3.+"),
+    implementation("com.android.support.constraint:constraint-layout:2.0.4")
 }
